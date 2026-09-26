@@ -32,3 +32,5 @@ Estoy aprendiendo a trabajar con ramas en Git.
 
 Esta información fue creada en una branch local.
 
+Este cambio fue realizado directamente desde GitHub.
+
