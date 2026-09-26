@@ -24,3 +24,11 @@ Mi objetivo es aprender Git y utilizarlo en proyectos de automatización y mecat
 
 Estoy aprendiendo a trabajar con ramas en Git.
 
+
+
+\## Probando branches remotas
+
+
+
+Esta información fue creada en una branch local.
+
