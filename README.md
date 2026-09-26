@@ -12,3 +12,7 @@ Este es mi primer repositorio.
 
 Estoy aprendiendo control de versiones.
 
+
+
+Mi objetivo es aprender Git y utilizarlo en proyectos de automatización y mecatrónica.
+
