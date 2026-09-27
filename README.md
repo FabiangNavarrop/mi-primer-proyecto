@@ -10,7 +10,7 @@ Este es mi primer repositorio.
 
 
 
-Estoy aprendiendo control de versiones.
+Estoy aprendiendo Git para proyectos de automatización.
 
 
 
