@@ -10,7 +10,7 @@ Este es mi primer repositorio.
 
 
 
-Estoy aprendiendo Git para desarrollar proyectos de ingeniería.
+Estoy aprendiendo Git para desarrollar proyectos de automatización e ingeniería.
 
 
 
